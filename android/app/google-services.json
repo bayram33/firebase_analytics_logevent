@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624630192761",
+    "project_id": "fir-analytics-c66d6",
+    "storage_bucket": "fir-analytics-c66d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624630192761:android:7e9fd6137dc00a0be1d2a8",
+        "android_client_info": {
+          "package_name": "com.example.analytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArXM4VXNWXowh7v2vjSQV4pGI_Rc2WULo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
